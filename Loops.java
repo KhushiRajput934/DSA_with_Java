@@ -1,8 +1,8 @@
-import java.util.*;
+// import java.util.*;
 
 public class Loops {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
         // ------WHILE LOOP------
         // int counter = 0;
         // while(counter < 100) {
